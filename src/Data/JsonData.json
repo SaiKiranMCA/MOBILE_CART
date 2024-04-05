@@ -1,0 +1,40 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Samsung Galaxy M33",
+            "src":"https://m.media-amazon.com/images/I/81lnKynSaqL._SX522_.jpg",
+            "price":17999
+        },
+        {
+            "id":2,
+            "name":"Samsung Galaxy M32",
+            "src":"https://m.media-amazon.com/images/I/71F4jU7MRUS._SX425_.jpg",
+            "price":16999
+        },
+        {
+            "id":3,
+            "name":"Realme narzo 50i",
+            "src":"https://m.media-amazon.com/images/I/81HJ4pkOsiL._SX522_.jpg",
+            "price":17999
+        },
+        {
+            "id":4,
+            "name":"Samsung Galaxy M12",
+            "src":"https://m.media-amazon.com/images/I/71r69Y7BSeL._SX425_.jpg",
+            "price":10499
+        },
+        {
+            "id":5,
+            "name":"Vivo Y75 4G",
+            "src":"https://m.media-amazon.com/images/I/61lP0Ts7-uL._SX679_.jpg",
+            "price":20700
+        },
+        {
+            "id":6,
+            "name":"OPPO A16e",
+            "src":"https://m.media-amazon.com/images/I/613S46TCKcL._SX679_.jpg",
+            "price":9490
+        }
+    ]
+}
